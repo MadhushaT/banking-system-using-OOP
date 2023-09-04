@@ -1,1 +1,1 @@
-# banking-system-using-OOP-in-JavaScript
+# Banking system using OOP in JavaScript
